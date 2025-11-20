@@ -1,0 +1,14 @@
+body {
+    background: #0a0a0a;
+    color: #00ffea;
+    font-family: Arial, sans-serif;
+}
+.container { width: 90%; margin: auto; margin-top: 30px; }
+.title { text-align: center; font-size: 32px; text-shadow: 0 0 20px #00eaff; }
+.card { background: #111; padding: 20px; border: 1px solid #00eaff; border-radius: 10px; margin-top: 20px; }
+.label { font-size: 18px; }
+input { width: 100%; padding: 10px; margin-top: 8px; background: #000; color: #00eaff; border: 1px solid #00eaff; }
+.btn { margin-top: 15px; padding: 10px; width: 100%; background: #00eaff; color: #000; cursor: pointer; font-weight: bold; border-radius: 8px; box-shadow: 0 0 10px #00eaff; }
+.btn:hover { box-shadow: 0 0 20px #00f3ff; }
+.stats-box { background: #111; padding: 15px; border: 1px solid #00eaff; margin-top: 20px; border-radius: 8px; white-space: pre-wrap; }
+.mt { margin-top: 40px; }
